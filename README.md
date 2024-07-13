@@ -1,4 +1,4 @@
-<h1 align="center">✨Hola, Soy Victor García, y te doy la bienvenida a mi GitHub<✨</h1>
+<h1 align="center">✨Hola, Soy Victor García, y te doy la bienvenida a mi GitHub✨</h1>
 
 <p align="center">
   <img src="img3.jpg" alt="Banner">
