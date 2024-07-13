@@ -10,7 +10,7 @@
 
 <h2 align="center">🚀 Un apasionado de la ciberseguridad y pentester novato</h2>
 <h3 align="center">Aquí encontrarás herramientas y proyectos relacionados con ciberseguridad. Mi objetivo es compartir conocimientos y recursos que sean útiles para la comunidad. Si tienes alguna duda, comentario o sugerencia, no dudes en contactarme a través de cualquiera de mis redes sociales.</h3>
-<h3>¡Estoy aquí para ayudar y aprender juntos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> </h3>
+<h3 align="center">¡Estoy aquí para ayudar y aprender juntos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> </h3>
 
 <div align="center">
   
