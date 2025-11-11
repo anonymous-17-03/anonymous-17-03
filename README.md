@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://github.com/anonymous-17-03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=✨Hola,+soy+Victor+García✨;✨Te+doy+la+bienvenida+a+mi+GitHub✨" alt="Typing SVG" />
-  </a>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=✨Hola,+soy+Victor+García✨;✨Te+doy+la+bienvenida+a+mi+GitHub✨)](https://github.com/anonymous-17-03)
-</p>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=✨Hola,+soy+Victor+García✨;✨Te+doy+la+bienvenida+a+mi+GitHub✨)](https://github.com/anonymous-17-03)
+
+</div>
 
 <p align="center">
   <img src="img3.jpg" alt="Banner">
