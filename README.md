@@ -2,7 +2,15 @@
   <img src="assets/novahacking-header.svg" alt="NovaHacking · Víctor García · Seguridad ofensiva, Linux y documentación técnica" width="100%">
 </p>
 
-<h1 align="center">Hola, soy Víctor García 👋</h1>
+<p align="center">
+  <a href="https://github.com/anonymous-17-03">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1800&amp;color=A8CEF5&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=75&amp;lines=Hola%2C+soy+V%C3%ADctor+Garc%C3%ADa+%F0%9F%91%8B;Bienvenido+a+NovaHacking+%F0%9F%9A%80"
+      alt="Hola, soy Víctor García. Bienvenido a NovaHacking."
+      width="650"
+    >
+  </a>
+</p>
 
 <p align="center">
   <strong>Pentester junior · Estudiante de Ciberseguridad · Panamá 🇵🇦</strong><br>
