@@ -69,5 +69,5 @@ Me interesa colaborar en proyectos de aprendizaje, intercambiar ideas y recibir 
 
 <p align="center">
   <strong>Aprender, poner a prueba y documentar.</strong><br>
-  <sub>Prácticas de seguridad en CTFs, laboratorios y entornos autorizados.</sub>
+  <sub>Prácticas de seguridad en CTFs, laboratorios y entornos autorizados.</sub> 
 </p>
